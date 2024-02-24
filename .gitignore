@@ -1,0 +1,18 @@
+# Maven specific
+target/
+pom.xml.backup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+.springBeans
+
+# Logs
+*.log
+log/
+
