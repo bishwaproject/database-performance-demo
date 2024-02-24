@@ -80,7 +80,7 @@ To clone and run this project in your local environment, follow these steps:
 
 3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
-4. Run the `DatabasePerformanceDemo.java` file to execute the performance comparison between raw JDBC and Hibernate/JPA.
+4. Read Setup instructions below and Run the `DatabasePerformanceDemo.java` file to execute the performance comparison between raw JDBC and Hibernate/JPA.
 ## Setup Instructions
 
 Before running the code, make sure to update the JDBC connection parameters in `DatabasePerformanceDemo.java` and Hibernate/JPA connection parameters in `persistence.xml` with your MySQL database configuration:
